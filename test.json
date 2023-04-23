@@ -1,0 +1,925 @@
+{
+  "users": [
+    {
+      "userType": "admin",
+      "userPassword": "123456",
+      "userName": "elsyed abo elazem update",
+      "userEmail": "mom@example.com",
+      "id": 1
+    },
+    {
+      "userType": "admin",
+      "userPassword": "001250927520",
+      "userName": "7mama",
+      "userEmail": "seenaseif@gmail.com",
+      "id": 2
+    },
+    {
+      "userType": "user",
+      "userName": "seif",
+      "userPassword": "123456",
+      "userEmail": "wow@gmai.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "count": 650,
+      "sellPrice": "40",
+      "category": "cabls",
+      "title": "y16 update",
+      "buyPrice": "20"
+    },
+    {
+      "id": 3,
+      "count": -13,
+      "sellPrice": "20",
+      "category": "speakers",
+      "title": "wo",
+      "buyPrice": "10"
+    },
+    {
+      "buyPrice": "20",
+      "title": "ww",
+      "category": "cabls",
+      "count": "20",
+      "sellPrice": "40",
+      "id": 4
+    },
+    {
+      "buyPrice": "20",
+      "title": "511",
+      "category": "chargers",
+      "count": "100",
+      "sellPrice": "100",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "count": 999,
+      "sellPrice": "50",
+      "category": "s-p",
+      "title": "28ww update",
+      "buyPrice": "20"
+    },
+    {
+      "buyPrice": "10",
+      "title": "d21",
+      "category": "baterys",
+      "count": "122",
+      "sellPrice": "22",
+      "id": 7
+    },
+    {
+      "id": 9,
+      "count": 75,
+      "sellPrice": "20",
+      "category": "s-p",
+      "title": "a7aaaa",
+      "buyPrice": "10"
+    },
+    {
+      "id": 11,
+      "count": 49,
+      "sellPrice": "60",
+      "category": "cabls",
+      "title": "h70",
+      "buyPrice": "20"
+    }
+  ],
+  "sellProducts": [
+    {
+      "title": "z10",
+      "category": "baterys",
+      "buyPrice": "40",
+      "date": "18-3-2023",
+      "sellPrice": "60",
+      "count": "1",
+      "id": 1
+    },
+    {
+      "title": "z10",
+      "category": "baterys",
+      "buyPrice": "40",
+      "date": "18-3-2023",
+      "sellPrice": "60",
+      "count": 1,
+      "id": 2
+    },
+    {
+      "title": "z10",
+      "category": "baterys",
+      "buyPrice": "40",
+      "date": "18-3-2023",
+      "sellPrice": "60",
+      "count": "15",
+      "id": 3
+    },
+    {
+      "title": "z10",
+      "category": "baterys",
+      "buyPrice": "40",
+      "date": "18-3-2023",
+      "sellPrice": "60",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "y16",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "18-3-2023",
+      "sellPrice": "40000",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      }
+    },
+    {
+      "id": 6,
+      "title": "y16",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "19-3-2023",
+      "sellPrice": "40",
+      "count": "23"
+    },
+    {
+      "title": "y16",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "19-3-2023",
+      "sellPrice": "40",
+      "count": "12",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 7
+    },
+    {
+      "title": "a7aaaa",
+      "category": "s-p",
+      "buyPrice": "10",
+      "date": "19-3-2023",
+      "sellPrice": "20",
+      "count": "30",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 8
+    },
+    {
+      "title": "a7aaaa",
+      "category": "s-p",
+      "buyPrice": "10",
+      "date": "19-3-2023",
+      "sellPrice": "20",
+      "count": "-100",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 9
+    },
+    {
+      "title": "j50",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "19-3-2023",
+      "sellPrice": "60",
+      "count": "50",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 10
+    },
+    {
+      "title": "h70",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "19-3-2023",
+      "sellPrice": "60",
+      "count": "50",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 11
+    },
+    {
+      "title": "z10",
+      "category": "baterys",
+      "buyPrice": "40",
+      "date": "20-3-2023",
+      "sellPrice": "60",
+      "count": "5",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 12
+    },
+    {
+      "title": "wo",
+      "category": "speakers",
+      "buyPrice": "10",
+      "date": "20-3-2023",
+      "sellPrice": "15",
+      "count": "10",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "001250927520",
+        "userName": "hossam",
+        "userEmail": "seenaseif@gmail.com",
+        "id": 2
+      },
+      "id": 13
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "40",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 14
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "40",
+      "count": "50",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 15
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 16
+    },
+    {
+      "title": "a7aaaa",
+      "category": "s-p",
+      "buyPrice": "10",
+      "date": "2023-03-28",
+      "sellPrice": "20",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 17
+    },
+    {
+      "title": "wo",
+      "category": "speakers",
+      "buyPrice": "10",
+      "date": "2023-03-28",
+      "sellPrice": "20",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 18
+    },
+    {
+      "title": "28ww update",
+      "category": "s-p",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "50",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 19
+    },
+    {
+      "title": "h70",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "60",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 20
+    },
+    {
+      "title": "28ww update",
+      "category": "s-p",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "50",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 21
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-28",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 22
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-29",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 23
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-31",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 24
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-03-31",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 25
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-04-09",
+      "sellPrice": "40",
+      "count": "12",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 26
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "date": "2023-04-09",
+      "sellPrice": "40",
+      "count": "51",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 27
+    }
+  ],
+  "categories": [
+    "speakers",
+    "cabls",
+    "chargers",
+    "s-p",
+    "cases",
+    "baterys"
+  ],
+  "actions": [
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": "50",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28",
+      "id": 1
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28 __ 09-49",
+      "id": 2
+    },
+    {
+      "title": "a7aaaa",
+      "category": "s-p",
+      "buyPrice": "10",
+      "sellPrice": "20",
+      "count": "15",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28",
+      "time": "09-55",
+      "id": 3
+    },
+    {
+      "title": "h70",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "60",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28",
+      "time": "10-4",
+      "id": 4
+    },
+    {
+      "title": "28ww update",
+      "category": "s-p",
+      "buyPrice": "20",
+      "sellPrice": "50",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28",
+      "time": "10-6",
+      "id": 5
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-28",
+      "time": "10-9",
+      "id": 6
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-29",
+      "time": "06-17",
+      "id": 7
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-31",
+      "time": "05-56",
+      "id": 8
+    },
+    {
+      "date": "2023-03-31",
+      "time": "07:06:54",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 9
+    },
+    {
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-31",
+      "time": "07:15",
+      "title": "signout",
+      "id": 10
+    },
+    {
+      "date": "2023-03-31",
+      "time": "07:18:28",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 11
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": 1,
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-31",
+      "time": "07-18",
+      "id": 12
+    },
+    {
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-03-31",
+      "time": "07:18",
+      "title": "signout",
+      "id": 13
+    },
+    {
+      "date": "2023-03-31",
+      "time": "07:21:18",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 15
+    },
+    {
+      "date": "2023-03-31",
+      "time": "07:52:50",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 16
+    },
+    {
+      "date": "2023-03-31",
+      "time": "07:53:47",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 17
+    },
+    {
+      "date": "2023-03-31",
+      "time": "08:13:45",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 18
+    },
+    {
+      "date": "2023-03-31",
+      "time": "08:28:47",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 19
+    },
+    {
+      "date": "2023-03-31",
+      "time": "09:12:47",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 20
+    },
+    {
+      "date": "2023-03-31",
+      "time": "09:16:17",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 21
+    },
+    {
+      "date": "2023-03-31",
+      "time": "09:19:41",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 22
+    },
+    {
+      "date": "2023-04-01",
+      "time": "05:54:27",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 23
+    },
+    {
+      "date": "2023-04-09",
+      "time": "14:32:49",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 24
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": "12",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-04-09",
+      "time": "14-33",
+      "id": 25
+    },
+    {
+      "date": "2023-04-09",
+      "time": "14:34:58",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 26
+    },
+    {
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-04-09",
+      "time": "14:34",
+      "title": "signout",
+      "id": 27
+    },
+    {
+      "date": "2023-04-09",
+      "time": "14:37:32",
+      "title": "signin",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "id": 28
+    },
+    {
+      "title": "y16 update",
+      "category": "cabls",
+      "buyPrice": "20",
+      "sellPrice": "40",
+      "count": "51",
+      "activeUser": {
+        "userType": "admin",
+        "userPassword": "123456",
+        "userName": "elsyed abo elazem update",
+        "userEmail": "mom@example.com",
+        "id": 1
+      },
+      "date": "2023-04-09",
+      "time": "14-37",
+      "id": 29
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "sup one",
+      "balance": 5000,
+      "payments": []
+    },
+    {
+      "name": "sup tow",
+      "balance": 4000,
+      "payments": []
+    }
+  ]
+}
